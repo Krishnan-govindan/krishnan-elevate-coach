@@ -212,7 +212,7 @@ const Index = () => {
             </div>
             
             <div className="space-y-6">
-              <div className="card-luxury p-8">
+              <div className="card-light p-8">
                 <h3 className="font-display text-2xl font-semibold mb-4 text-gradient">
                   My Transformation Journey
                 </h3>

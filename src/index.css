@@ -130,6 +130,12 @@ All colors MUST be HSL for consistency and theming.
            hover:border-primary/30;
   }
 
+  .card-light {
+    @apply bg-gradient-to-br from-white to-gray-50 backdrop-blur-xl border border-gray-200 
+           rounded-2xl shadow-lg hover:shadow-xl transition-all duration-500
+           hover:border-primary/30;
+  }
+
   .text-gradient {
     @apply bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent;
   }
