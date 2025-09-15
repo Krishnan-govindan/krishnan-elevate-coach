@@ -187,7 +187,7 @@ const Index = () => {
       </section>
 
       {/* About Section */}
-      <section className="relative z-10 px-6 py-20 bg-card/20 backdrop-blur-xl border-y border-border/20">
+      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/20">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="font-display text-4xl font-bold mb-4">
@@ -268,7 +268,7 @@ const Index = () => {
       </section>
 
       {/* Video Content Section */}
-      <section className="relative z-10 px-6 py-20 bg-card/20 backdrop-blur-xl border-y border-border/20">
+      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/20">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="font-display text-4xl font-bold mb-4">

@@ -57,6 +57,7 @@ export default {
         'gradient-hero': 'var(--gradient-hero)',
         'gradient-primary': 'var(--gradient-primary)',
         'gradient-card': 'var(--gradient-card)',
+        'gradient-section-alt': 'var(--gradient-section-alt)',
       },
       boxShadow: {
         luxury: 'var(--shadow-luxury)',

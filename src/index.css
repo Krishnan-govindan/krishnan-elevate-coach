@@ -46,6 +46,7 @@ All colors MUST be HSL for consistency and theming.
     --gradient-primary: linear-gradient(135deg, hsl(43, 74%, 49%), hsl(43, 100%, 65%));
     --gradient-hero: linear-gradient(135deg, hsl(0, 0%, 10%) 0%, hsl(210, 100%, 8%) 100%);
     --gradient-card: linear-gradient(145deg, hsl(0, 0%, 12%) 0%, hsl(0, 0%, 8%) 100%);
+    --gradient-section-alt: linear-gradient(135deg, hsl(220, 40%, 8%) 0%, hsl(230, 35%, 12%) 100%);
     
     --shadow-luxury: 0 20px 60px -10px hsl(43, 74%, 49%, 0.3);
     --shadow-card: 0 10px 40px -10px hsl(0, 0%, 0%, 0.4);
