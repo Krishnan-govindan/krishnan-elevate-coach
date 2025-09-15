@@ -187,13 +187,13 @@ const Index = () => {
       </section>
 
       {/* About Section */}
-      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/20">
+      <section className="relative z-10 px-6 py-20 bg-white border-y border-gray-200">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-4">
-              Who is <span className="text-gradient">Krishnan Govindan</span>
+            <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
+              Who is <span className="text-gradient">Krishnan Govindan</span>?
             </h2>
-            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               From software engineer to elite life coach, I've built myself from scratch and now help high achievers unlock their true potential.
             </p>
           </div>
@@ -216,17 +216,17 @@ const Index = () => {
                 <h3 className="font-display text-2xl font-semibold mb-4 text-gradient">
                   My Transformation Journey
                 </h3>
-                <p className="text-muted-foreground leading-relaxed mb-6">
+                <p className="text-gray-700 leading-relaxed mb-6">
                   As a software engineer turned coach, I understand the unique challenges that ambitious minds face. I've navigated the tech industry, built successful projects, and transformed my own mindset to achieve extraordinary results.
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
                     <div className="text-2xl font-bold text-primary mb-1">500+</div>
-                    <div className="text-sm text-muted-foreground">Lives Transformed</div>
+                    <div className="text-sm text-gray-600">Lives Transformed</div>
                   </div>
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
                     <div className="text-2xl font-bold text-primary mb-1">5+</div>
-                    <div className="text-sm text-muted-foreground">Years Experience</div>
+                    <div className="text-sm text-gray-600">Years Experience</div>
                   </div>
                 </div>
               </div>
@@ -268,13 +268,13 @@ const Index = () => {
       </section>
 
       {/* Video Content Section */}
-      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/20">
+      <section className="relative z-10 px-6 py-20 bg-white border-y border-gray-200">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-4">
+            <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
               Watch Latest <span className="text-gradient">Coaching Videos</span>
             </h2>
-            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Get a taste of my coaching approach with these powerful transformation strategies and insights.
             </p>
           </div>
