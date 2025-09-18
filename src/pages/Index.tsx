@@ -100,7 +100,7 @@ const Index = () => {
               <span className="text-primary-foreground font-bold text-xl">K</span>
             </div>
             <div>
-              <h1 className="font-display font-bold text-xl text-gradient">India's First Divorce Coach</h1>
+              <h1 className="font-display font-bold text-xl text-gradient">India's 1st Divorce Coach</h1>
               <p className="text-muted-foreground text-sm">Krishnan Govindan • CEO India Therapist</p>
             </div>
           </div>
@@ -123,18 +123,21 @@ const Index = () => {
         <div className="max-w-7xl mx-auto grid lg:grid-cols-2 gap-12 items-center">
           <div className="animate-slide-up">
             <div className="inline-block bg-primary/10 backdrop-blur-sm border border-primary/20 rounded-full px-4 py-2 mb-6">
-              <span className="text-primary font-medium">India's First Divorce Coach • CEO India Therapist • Founder indianlifecoaches.com</span>
+              <span className="text-primary font-medium">India's 1st Divorce Coach, CEO India Therapist, Founder Indian Life Coaches</span>
             </div>
             
             <h1 className="font-display text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-              Breakup & Divorce Recovery - 
+              #1 Breakup & Divorce Recovery Coach 
               <span className="text-gradient block mt-2">
-                Rebuild, Heal & Thrive Again
+                Heal, Rebuild & Thrive Again
+              </span>
+              <span className="text-gradient block mt-2 text-3xl lg:text-4xl">
+                Life will never be the same again
               </span>
             </h1>
             
             <p className="text-xl text-muted-foreground mb-8 max-w-xl leading-relaxed">
-              India's First Divorce Coach & Life Strategist. Specialized in breakup recovery, digital nomad lifestyle, and relationship transitions. CEO at India Therapist, founder of indianlifecoaches.com.
+              India's 1st Divorce Coach & Life Strategist. Specialized in breakup recovery, digital nomad lifestyle, and relationship transitions. CEO at India Therapist, founder of Indian Life Coaches.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 mb-8">
@@ -212,10 +215,10 @@ const Index = () => {
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
             <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
-              Meet <span className="text-gradient">Krishnan Govindan</span> - India's First Divorce Coach
+              Meet <span className="text-gradient">Krishnan Govindan</span> - India's 1st Divorce Coach
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              From software engineer to India's pioneering divorce recovery expert. CEO at India Therapist, founder of indianlifecoaches.com, and digital nomad lifestyle strategist helping thousands rebuild their lives.
+              From software engineer to India's pioneering divorce recovery expert. CEO at India Therapist, founder of Indian Life Coaches, and digital nomad lifestyle strategist helping thousands rebuild their lives.
             </p>
           </div>
           
@@ -238,11 +241,11 @@ const Index = () => {
                   My Revolutionary Approach
                 </h3>
                 <p className="text-gray-700 leading-relaxed mb-6">
-                  As India's First Divorce Coach and CEO of India Therapist, I pioneered breakup and divorce recovery methodologies combining Eastern wisdom with Western psychology. From software engineer to digital nomad lifestyle expert, I've personally navigated major life transitions and now guide others through relationship endings, career pivots, and location independence journeys.
+                  As India's 1st Divorce Coach and CEO of India Therapist, I pioneered breakup and divorce recovery methodologies combining Eastern wisdom with Western psychology. From software engineer to digital nomad lifestyle expert, I've personally navigated major life transitions and now guide others through relationship endings, career pivots, and location independence journeys.
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
-                    <div className="text-2xl font-bold text-primary mb-1">1000+</div>
+                    <div className="text-2xl font-bold text-primary mb-1">100+</div>
                     <div className="text-sm text-gray-600">Divorce Recoveries</div>
                   </div>
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
@@ -255,7 +258,7 @@ const Index = () => {
                   <h4 className="font-semibold text-gray-800 mb-2">Credentials & Recognition</h4>
                   <ul className="text-sm text-gray-600 space-y-1">
                     <li>• CEO & Founder - India Therapist</li>
-                    <li>• Founder - indianlifecoaches.com</li>
+                    <li>• Founder - Indian Life Coaches</li>
                     <li>• Digital Nomad Lifestyle Expert</li>
                     <li>• Relationship & Life Strategist</li>
                     <li>• Software Engineering Background</li>
@@ -307,7 +310,7 @@ const Index = () => {
               Success Stories from <span className="text-gradient">Divorce Recovery</span>
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              Real transformations from clients who've rebuilt their lives with India's first divorce coach and digital nomad lifestyle expert.
+              Real transformations from clients who've rebuilt their lives with India's 1st divorce coach and digital nomad lifestyle expert.
             </p>
           </div>
           
@@ -344,7 +347,7 @@ const Index = () => {
               Watch Latest <span className="text-gradient">Recovery & Lifestyle Videos</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Expert guidance on divorce recovery, digital nomad lifestyle, and relationship transitions from India's first divorce coach.
+              Expert guidance on divorce recovery, digital nomad lifestyle, and relationship transitions from India's 1st divorce coach.
             </p>
           </div>
           
@@ -388,8 +391,8 @@ const Index = () => {
           
           <div className="grid md:grid-cols-2 gap-8 max-w-5xl mx-auto">
             <div className="card-light p-6">
-              <h3 className="font-semibold text-lg mb-3 text-gray-800">What makes you India's First Divorce Coach?</h3>
-              <p className="text-gray-600 text-sm">I pioneered specialized divorce recovery methodologies in India, combining Eastern wisdom with Western psychology. As CEO of India Therapist and founder of indianlifecoaches.com, I've helped over 1000+ individuals navigate breakup and divorce recovery successfully.</p>
+              <h3 className="font-semibold text-lg mb-3 text-gray-800">What makes you India's 1st Divorce Coach?</h3>
+              <p className="text-gray-600 text-sm">I pioneered specialized divorce recovery methodologies in India, combining Eastern wisdom with Western psychology. As CEO of India Therapist and founder of Indian Life Coaches, I've helped over 100+ individuals navigate breakup and divorce recovery successfully.</p>
             </div>
             
             <div className="card-light p-6">
@@ -490,12 +493,12 @@ const Index = () => {
                   <span className="text-primary-foreground font-bold">K</span>
                 </div>
               <div>
-                <h3 className="font-display font-bold text-lg text-gradient">India's First Divorce Coach</h3>
+                <h3 className="font-display font-bold text-lg text-gradient">India's 1st Divorce Coach</h3>
                 <p className="text-muted-foreground text-sm">Krishnan Govindan • CEO India Therapist</p>
               </div>
               </div>
               <p className="text-muted-foreground text-sm leading-relaxed">
-                India's pioneering divorce recovery expert. Founder of indianlifecoaches.com, specializing in breakup healing, digital nomad lifestyle, and relationship transitions.
+                India's pioneering divorce recovery expert. Founder of Indian Life Coaches, specializing in breakup healing, digital nomad lifestyle, and relationship transitions.
               </p>
             </div>
             
