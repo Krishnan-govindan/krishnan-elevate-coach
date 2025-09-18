@@ -211,13 +211,13 @@ const Index = () => {
       </section>
 
       {/* About Section */}
-      <section className="relative z-10 px-6 py-20 bg-white border-y border-gray-200">
+      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/50">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
+            <h2 className="font-display text-4xl font-bold mb-4 text-foreground">
               Meet <span className="text-gradient">Krishnan Govindan</span> - India's 1st Divorce Coach
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               From software engineer to India's pioneering divorce recovery expert. CEO at India Therapist, founder of Indian Life Coaches, and digital nomad lifestyle strategist helping thousands rebuild their lives.
             </p>
           </div>
@@ -236,27 +236,27 @@ const Index = () => {
             </div>
             
             <div className="space-y-6">
-              <div className="card-light p-8">
+              <div className="card-luxury p-8">
                 <h3 className="font-display text-2xl font-semibold mb-4 text-gradient">
                   My Revolutionary Approach
                 </h3>
-                <p className="text-gray-700 leading-relaxed mb-6">
+                <p className="text-muted-foreground leading-relaxed mb-6">
                   As India's 1st Divorce Coach and CEO of India Therapist, I pioneered breakup and divorce recovery methodologies combining Eastern wisdom with Western psychology. From software engineer to digital nomad lifestyle expert, I've personally navigated major life transitions and now guide others through relationship endings, career pivots, and location independence journeys.
                 </p>
                 <div className="grid grid-cols-2 gap-4">
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
                     <div className="text-2xl font-bold text-primary mb-1">100+</div>
-                    <div className="text-sm text-gray-600">Divorce Recoveries</div>
+                    <div className="text-sm text-muted-foreground">Divorce Recoveries</div>
                   </div>
                   <div className="text-center p-4 bg-primary/5 rounded-lg border border-primary/10">
                     <div className="text-2xl font-bold text-primary mb-1">India's #1</div>
-                    <div className="text-sm text-gray-600">Divorce Coach</div>
+                    <div className="text-sm text-muted-foreground">Divorce Coach</div>
                   </div>
                 </div>
                 
                 <div className="mt-6 p-4 bg-gradient-to-r from-primary/5 to-primary-glow/5 rounded-lg border border-primary/10">
-                  <h4 className="font-semibold text-gray-800 mb-2">Credentials & Recognition</h4>
-                  <ul className="text-sm text-gray-600 space-y-1">
+                  <h4 className="font-semibold text-foreground mb-2">Credentials & Recognition</h4>
+                  <ul className="text-sm text-muted-foreground space-y-1">
                     <li>• CEO & Founder - India Therapist</li>
                     <li>• Founder - Indian Life Coaches</li>
                     <li>• Digital Nomad Lifestyle Expert</li>
@@ -340,13 +340,13 @@ const Index = () => {
       </section>
 
       {/* Video Content Section */}
-      <section className="relative z-10 px-6 py-20 bg-white border-y border-gray-200">
+      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/50">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
+            <h2 className="font-display text-4xl font-bold mb-4 text-foreground">
               Watch Latest <span className="text-gradient">Recovery & Lifestyle Videos</span>
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Expert guidance on divorce recovery, digital nomad lifestyle, and relationship transitions from India's 1st divorce coach.
             </p>
           </div>
@@ -378,13 +378,13 @@ const Index = () => {
       </section>
 
       {/* FAQ Section */}
-      <section className="relative z-10 px-6 py-20 bg-white border-y border-gray-200">
+      <section className="relative z-10 px-6 py-20 bg-gradient-section-alt border-y border-border/50">
         <div className="max-w-7xl mx-auto">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-4 text-gray-900">
+            <h2 className="font-display text-4xl font-bold mb-4 text-foreground">
               Frequently Asked <span className="text-gradient">Questions</span>
             </h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">
+            <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
               Common questions about divorce recovery coaching, digital nomad lifestyle, and relationship transitions.
             </p>
           </div>
@@ -407,7 +407,7 @@ const Index = () => {
             
             <div className="card-light p-6">
               <h3 className="font-semibold text-lg mb-3 text-gray-800">What's included in divorce recovery coaching?</h3>
-              <p className="text-gray-600 text-sm">My divorce recovery program includes emotional healing strategies, rebuilding confidence, co-parenting guidance (if applicable), financial independence planning, and creating a new life vision post-divorce.</p>
+              <p className="text-muted-foreground text-sm">My divorce recovery program includes emotional healing strategies, rebuilding confidence, co-parenting guidance (if applicable), financial independence planning, and creating a new life vision post-divorce.</p>
             </div>
           </div>
         </div>
