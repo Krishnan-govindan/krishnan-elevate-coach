@@ -4,31 +4,29 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 // IMPORTANT: set base to your REPO name for GitHub Pages project sites
-// URL will be https://<user>.github.io/<repo>/…
+// Your site will be served at: https://<user>.github.io/<repo>/…
 const base = "/krishnan-elevate-coach/";
 
 export default defineConfig(({ mode }) => ({
-  base,                             // <-- critical for GitHub Pages
+  base, // critical for GitHub Pages
   server: {
     host: "0.0.0.0",
     port: 8080,
   },
-  plugins: [react(), mode === "development" && componentTagger()].filter(
-    Boolean
-  ),
+  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
   },
-
-  // OPTIONAL: during local dev, proxy API calls to your Render backend
-  // (uncomment & change the target when you have the backend URL)
-  // proxy: {
-  //   "/api": {
-  //     target: "https://your-render-service.onrender.com",
-  //     changeOrigin: true,
-  //     secure: true,
+  // If you add a backend later, you can proxy API calls during local dev:
+  // server: {
+  //   proxy: {
+  //     "/api": {
+  //       target: "https://your-render-service.onrender.com",
+  //       changeOrigin: true,
+  //       secure: true,
+  //     },
   //   },
   // },
 }));
